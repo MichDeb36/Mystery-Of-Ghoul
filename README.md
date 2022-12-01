@@ -4,4 +4,6 @@ Thesis title: Simulating the realistic behavior of opponents in virtual reality 
 It is an adventure game with horror and roguelike elements. <br/>
 Unity version: 2020.3.23 <br/>
 Tested on VR headset: Oculus Quest 2 <br/>
-Intended for a headset that supports OpenXR <br/>
+Intended for a headset that supports OpenXR <br/> <br/>
+
+Presentation on Youtube: https://youtu.be/eHkrlMO-wF0
